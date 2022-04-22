@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Digvijay Gond</h1>
 <h3 align="center">PHP Developer | CodeIgniter | WordPress | Python | Django</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=digvijaygond&label=Profile%20views&color=0e75b6&style=flat" alt="digvijaygond" /> </p>
-
 - 📫 How to reach me **digvijaygond.a1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
