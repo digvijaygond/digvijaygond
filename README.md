@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Digvijay Gond</h1>
-<h3 align="center">PHP Developer | CodeIgniter | WordPress | Shopify | Python </h3>
+<h3 align="center">Shopify Developer | PHP | CodeIgniter | WordPress </h3>
 
 - 📫 How to reach me **digvijaygond.a1@gmail.com**
 
